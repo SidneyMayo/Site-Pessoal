@@ -1,0 +1,27 @@
+form{
+    width: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 15px;
+    background-color: #fff;
+
+}
+
+form fieldset{
+    border: 0;
+}
+
+form fieldset label{
+    color:#722b75;
+    display: block;
+}
+
+form fieldset input, textarea{
+    width: 100%;
+}
+
+@media only screen and( max-width: 500px) {
+    form {
+        width: 80%
+    }
+}
