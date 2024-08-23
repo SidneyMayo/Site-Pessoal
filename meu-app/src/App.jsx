@@ -2,12 +2,12 @@ import React from "react";
 
 import "./App.css";
 
-import Header from "./components/Hearder";
-import Footer from "./components/footer";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/footer";
 
-import Curriculo from "./components/Curriculo";
-import Portifolio from "./components/Portifolio";
-import Contato from "./components/Contato"
+import Curriculo from "./components/Curriculo/Curriculo";
+import Portifolio from "./components/Portifolio/Portifolio";
+import Contato from "./components/Contato/Contato"
 
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 

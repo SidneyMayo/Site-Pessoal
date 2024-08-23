@@ -1,8 +1,10 @@
 import React from "react";
 
+import "./Contato.css"
+
 function Contato () {
     return (
-        <main>
+        <>
             <form onSubmit="event.preventDefault()">
 
                 <fieldset>
@@ -30,7 +32,7 @@ function Contato () {
                 </center>
 
             </form>
-        </main>
+        </>
     )
 }
 
