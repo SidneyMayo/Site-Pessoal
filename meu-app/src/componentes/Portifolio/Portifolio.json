@@ -1,0 +1,19 @@
+[
+
+    {
+    "link": "https://www.linkedin.com/in/sidney-mayo/",
+    "image": "https://picsum.photos/300/200?random=1",
+    "title": "Portfolio 1"
+    },
+    {
+    "link": "https://www.linkedin.com/in/sidney-mayo/",
+    "image": "https://picsum.photos/300/200?random=2",
+    "title": "Portfolio 2"
+    },
+    {
+    "link": "https://www.linkedin.com/in/sidney-mayo/",
+    "image":"https://picsum.photos/300/200?random=3",
+    "title": "Portfolio 3"
+    }
+
+]

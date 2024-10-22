@@ -1,8 +1,10 @@
 import React from "react";
 
-function Footer() {
+import "./Rodape.css"
+
+function Rodape() {
     return <footer>Desenvolvido por Sidney Mayo</footer>
 
 }
 
-export default Footer
+export default Rodape

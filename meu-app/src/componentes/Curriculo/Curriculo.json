@@ -1,0 +1,26 @@
+{
+    "resumo":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a typ",
+    "experienciaAcademica": [
+            {
+            "titulo":"Análise e Desenvolvimento de Sistemas na FAELO",
+            "dataInicio":"2019",
+            "dataFim":"2021"
+            
+            },
+            {
+            "titulo":"Análise e Desenvolvimento de Sistemas na FAELO",
+            "dataInicio":"2019",
+            "dataFim":"2021"
+
+            }
+        ],
+        "experienciaProfissional":[
+            {
+                "titulo":"Accenture",
+                "dataInicio":"2021",
+                "dataFim":"2023"
+            }
+        ]
+    
+
+}
